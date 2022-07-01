@@ -2,7 +2,7 @@
 
 > ## About this Specialization
 > 
-> 112,903 recent views 
+> 112,903 recent  views 
 > 
 > Understanding machine learning and deep learning concepts is essential, but if you’re looking to build an effective AI career, you need production engineering capabilities as well.
 > 
